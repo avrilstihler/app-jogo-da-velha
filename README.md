@@ -1,16 +1,14 @@
-# myapp
+# Jogo da Velha em Flutter
+Este é um projeto de um Jogo da Velha desenvolvido em Flutter, permitindo partidas entre dois humanos (localmente, alternando turnos) ou contra a máquina (IA básica).
 
-A new Flutter project.
+## Funcionalidades:
+- Modo Humano vs. Humano: jogadores alternam turnos no mesmo dispositivo.
+- Modo Humano vs. Máquina: jogue contra uma inteligência artificial simples.
+- Interface intuitiva e responsiva.
 
-## Getting Started
+----
+Este aplicativo foi desenvolvido como parte do programa Talento Tech, focado em aprendizado prático de tecnologias. Posteriormente, foi hospedado no GitHub para fácil acesso e compartilhamento online.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Acesse pelo link:
+[``]()  
