@@ -11,4 +11,4 @@ Este aplicativo foi desenvolvido como parte do programa Talento Tech, focado em 
 
 ---
 Acesse pelo link:
-[``]()  
+[`https://avrilstihler.github.io/app-jogo-da-velha/`](https://avrilstihler.github.io/app-jogo-da-velha/)  
