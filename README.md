@@ -6,9 +6,5 @@ Este é um projeto de um Jogo da Velha desenvolvido em Flutter, permitindo parti
 - Modo Humano vs. Máquina: jogue contra uma inteligência artificial simples.
 - Interface intuitiva e responsiva.
 
-----
-Este aplicativo foi desenvolvido como parte do programa Talento Tech, focado em aprendizado prático de tecnologias. Posteriormente, foi hospedado no GitHub para fácil acesso e compartilhamento online.
-
----
 Acesse pelo link:
 [`https://avrilstihler.github.io/app-jogo-da-velha/`](https://avrilstihler.github.io/app-jogo-da-velha/)  
