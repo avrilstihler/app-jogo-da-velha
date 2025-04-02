@@ -10,6 +10,9 @@ O projeto foi exportado para a Web, permitindo que o jogo seja jogado diretament
 
 🔗 **Acesse o jogo aqui:** [Clique para jogar](https://avrilstihler.github.io/app-jogo-da-velha/)  
 
+## 🖼️ Preview do Jogo  
+![Jogo da Velha](imagemjogo.png)  
+
 ## Tecnologias utilizadas:
 - Flutter para a construção da interface e lógica do jogo.
 
