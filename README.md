@@ -8,10 +8,11 @@ Este repositório contém um Jogo da Velha simples desenvolvido em Flutter, util
 
 O projeto foi exportado para a Web, permitindo que o jogo seja jogado diretamente no navegador sem necessidade de instalação.
 
-🔗 **Acesse o jogo aqui:** [Clique para jogar](https://avrilstihler.github.io/app-jogo-da-velha/)  
 
 ## 🖼️ Preview do Jogo  
 ![Jogo da Velha](imagemjogo.png)  
+
+🔗 **Acesse o jogo aqui:** [Clique para jogar](https://avrilstihler.github.io/app-jogo-da-velha/)  
 
 ## Tecnologias utilizadas:
 - Flutter para a construção da interface e lógica do jogo.
